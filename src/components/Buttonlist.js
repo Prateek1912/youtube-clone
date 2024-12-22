@@ -3,7 +3,7 @@ import Button from './Button'
 
 const Buttonlist = () => {
 
-  const buttons = ["Live", "All", "Gaming", "Cricket", "Soccer", "CS-2", "Dhoni", "xyz","xxxxxxxxxx"];
+  const buttons = ["Live", "All", "Gaming", "Cricket", "Soccer", "CS-2", "Dhoni", "xyz"];
 
   return (
     <div className='flex'>
